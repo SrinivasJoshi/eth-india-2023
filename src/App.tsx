@@ -9,7 +9,7 @@ function App() {
       </h1>
       <div className="flex flex-col items-center text-white">
         <img
-          src="/images/riddler.gif"
+          src="/images/Riddler.gif"
           alt="The riddler"
           className="rounded-xl w-80"
         />
